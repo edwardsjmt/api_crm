@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Edwards Jose",
+      "empresa": "Protofy",
+      "telefono": "666914236",
+      "email": "edwardsjmt1@gmail.com",
+      "notas": "Solicita un prestamo",
+      "id": 1
+    },
+    {
+      "nombre": "Jesus",
+      "empresa": "Nestle",
+      "telefono": "666914234",
+      "email": "jesuspupitre@gmail.com",
+      "notas": "Solicita un fideicomiso",
+      "id": 2
+    },
+    {
+      "nombre": "Andrea Galvez",
+      "empresa": "Konecta",
+      "telefono": "666987112",
+      "email": "andregalvez0@gmail.com",
+      "notas": "Reclamacion por comisiones",
+      "id": 3
+    }
+  ]
+}
